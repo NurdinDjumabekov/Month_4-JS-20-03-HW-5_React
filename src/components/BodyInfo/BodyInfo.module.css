@@ -1,0 +1,28 @@
+.input_parent {
+  margin-top: 20px;
+  width: 40%;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 22px;
+  padding-left: 15px;
+  border: 2px solid gray;
+}
+.btn_parent {
+  width: 70px;
+  height: 40px;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  margin-left: 10px;
+  font-size: 18px;
+  transition: 0.5s;
+  font-weight: 700;
+}
+.btn_parent:hover {
+  background-color: burlywood;
+  scale: 1.1;
+}
+h1 {
+  font-size: 35px;
+  color: #fff;
+  margin-top: 15px;
+}
